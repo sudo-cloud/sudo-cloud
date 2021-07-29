@@ -1,5 +1,5 @@
 - 👋 Hi, I am a DevOps Engineer looking to solve real world problems.
-- 🌱 I’m currently learning Docker.
+- 🌱 I’m currently learning CI/CD.
 - 📫 How to reach me at sonkusareaakash02@gmail.com
 
 <!---
