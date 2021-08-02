@@ -4,12 +4,12 @@
 - Fun Fact: I am a Cryptocurrency Trader too.
 
 <img height="32" width="32" src="https://cdn.jsde />
+                                 
 Language and Tools
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/> 
 <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/jenkins.png"/>
 <img src="https://img.icons8.com/color/48/000000/jira.png"/>
-                    <![visitors] (https://visitor-badge.glitch.me/badge?sudo-cloud.sudo-cloud)>
-
+           <!visitor badge>
 
 <!---
 sudo-cloud/sudo-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
